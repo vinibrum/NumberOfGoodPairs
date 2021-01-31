@@ -1,3 +1,8 @@
+// Source : https://leetcode.com/problems/number-of-good-pairs/
+// Author : Vinícius Brum
+// Date   : 30-01-2021
+
+
 #include <stdio.h>
 
 //Find number of good pairs
